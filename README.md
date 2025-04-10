@@ -75,7 +75,6 @@ Export summary reports to PDF or CSV.
 
 User authentication and favorites.
 ---
-
-### License
+License
 This project is open-source and available under the MIT License.
 ---
