@@ -88,7 +88,7 @@ python main.py
 Make sure Python 3.x is installed on your system.
 
 
-🛠️ Future Improvements
+###🛠️ Future Improvements
 Add "Add Recipe" functionality via GUI.
 
 Allow editing and deleting of existing recipes.
@@ -98,6 +98,6 @@ Export summary reports to PDF or CSV.
 User authentication and favorites.
 
 
-📄 License
+###📄 License
 This project is open-source and available under the MIT License.
 
