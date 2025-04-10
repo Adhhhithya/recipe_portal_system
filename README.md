@@ -48,28 +48,6 @@ Recipe Portal App/
 - 📊 Summary tab to display total recipes and a list of all available ingredients.
 - 🗃️ Backend database auto-generated with initial recipe and ingredient data.
 
----
-
-## 🚀 Getting Started
-
-
----
-
-## 🖥️ Technologies Used
-
-- Python 3.x
-- SQLite3
-- Tkinter (for GUI)
-- ttk Treeview
-
----
-
-## 📚 Features
-
-- 🧾 View a list of recipes with details like ingredients, preparation time, and chef.
-- 🔍 Search functionality by recipe name or chef name.
-- 📊 Summary tab to display total recipes and a list of all available ingredients.
-- 🗃️ Backend database auto-generated with initial recipe and ingredient data.
 
 ---
 
@@ -86,9 +64,9 @@ cd recipe-portal
 python main.py
 ```
 Make sure Python 3.x is installed on your system.
+ ---
 
-
-###🛠️ Future Improvements
+### Future Improvements
 Add "Add Recipe" functionality via GUI.
 
 Allow editing and deleting of existing recipes.
@@ -96,8 +74,8 @@ Allow editing and deleting of existing recipes.
 Export summary reports to PDF or CSV.
 
 User authentication and favorites.
+---
 
-
-###📄 License
+### License
 This project is open-source and available under the MIT License.
-
+---
